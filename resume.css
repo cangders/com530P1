@@ -18,5 +18,11 @@ sup{vertical-align:baseline}sub{vertical-align:baseline}legend{color:#000}
 begin Charise CSS
 */
 
-body  { font-family: Franklin Gothic Book, Arial, sans-serif; }
-li { list-style: square inside; text-indent: 2em}
+body  { font-family: Franklin Gothic Book, Arial, sans-serif; text-indent: 2em}
+li { list-style: square inside; text-indent: 4em}
+
+ul {line-height:1.5;}
+
+h1 { font-size: 2em; text-align: center; }
+h2 { font-size: 1.5em; line-height:2; }
+b { line-height: 2.5; text-indent: 4em;}
