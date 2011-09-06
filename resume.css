@@ -24,5 +24,7 @@ li { list-style: square inside; text-indent: 4em}
 ul {line-height:1.5;}
 
 h1 { font-size: 2em; text-align: center; }
-h2 { font-size: 1.5em; line-height:2; }
-b { line-height: 2.5; }
+h2 { font-size: 1.5em; line-height:2;}
+h3 { line-height:2;}
+h4 { line-height:2;}
+b { line-height: 2.5;}
