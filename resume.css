@@ -18,12 +18,50 @@ sup{vertical-align:baseline}sub{vertical-align:baseline}legend{color:#000}
 begin Charise CSS
 */
 
-body  { font-family: Franklin Gothic Book, Arial, sans-serif; text-indent: 2em}
+html {
+  background: ;
+  color: black;
+  font-family: Franklin Gothic Book, Arial, sans-serif;
+  font-size: 12px;
+  text-indent: 20px
+}
+
+#navigation {
+        font-size: 16px;      
+        width: 25%;        
+        float: right;
+        right: 0;
+}
+
+#content {
+        width: 65%;
+}
+
+body  {  
+        text-indent: 20px
+        
+}
+
 li { list-style: square inside; text-indent: 4em}
 
-ul {line-height:1.5;}
+ul {line-height:20px; }
 
-h1 { font-size: 2em; text-align: center; }
-h2 { font-size: 1.5em; line-height:2;}
-h3 { line-height:2;}
-h4 { line-height:2;}
+h1 { 
+font-size: 24px; text-align: center; 
+}
+
+h2 { 
+      font-size: 20px;
+      line-height:24px;
+}
+
+h3 { 
+      font-size: 14px;      
+      line-height:24px;
+}
+
+h4 { 
+      font-size: 14px; 
+      font-style: bold;     
+      line-height:24px;
+}
