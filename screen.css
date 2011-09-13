@@ -21,7 +21,7 @@ begin Charise CSS
 /* Need to make units consistent? */
 
 html {
-		background: ;
+		background: #fff;
 		color: black;
 		font-family: Franklin Gothic Book, Arial, sans-serif;
 		font-size: 12px;
@@ -46,6 +46,10 @@ ul#navigation a {
 
 #content {
         width: 65%;
+}
+
+ul#edu  li{
+		list-style-type: none;
 }
 
 body  {  
@@ -89,7 +93,6 @@ h3 {
 }
 
 h4 { 
-      font-size: 14px; 
-      font-style: bold;     
+      font-size: 14px;  
       line-height:21px;
 }
