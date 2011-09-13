@@ -37,7 +37,7 @@ ul#navigation {
         right: 0;
 		padding: 1em;
 		line-height: 24px;
-		background-color: #FF9966;
+		background-color: #fff;
 }
 
 ul#navigation a {
@@ -53,7 +53,7 @@ ul#edu  li{
 }
 
 body  {  
-        text-indent: 20px
+        text-indent: 20px;
         
 }
 
