@@ -18,12 +18,9 @@ sup{vertical-align:baseline}sub{vertical-align:baseline}legend{color:#000}
 begin Charise CSS
 */
 
-/* 
+/* Need to make units consistent? */
 
-    Need to make units consistent? 
-    Use px or em
-
-*/
+/* Use pt for print */
 
 html {
 		background: #fff;
