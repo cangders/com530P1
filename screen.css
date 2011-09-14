@@ -111,3 +111,6 @@ h4.locdate {
       float: right;
 }
 
+h4.title {
+      font-weight: bold;
+}
