@@ -56,18 +56,16 @@ ul#navigation a {
 				text-decoration: none;
 }
 
-#content {
+div#content {
         width: 65%;
 }
 
-ul#edu  li{
+
+
+ul.address li{
 		list-style-type: none;
 }
 
-body  {  
-        text-indent: 20px;
-        
-}
 
 /*make second line same indentation*/
 
@@ -82,7 +80,6 @@ li {
 h1 { 
 	font-size: 24px;
 	line-height: 36px;
-	margin-top: 18px;
 	margin-bottom: 18px;
 	text-align: center; 
 }
