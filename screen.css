@@ -74,6 +74,10 @@ li {
 	padding-left: 4em;
 }
 
+li.locdate {
+		list-style-type: none;
+}
+
 /*Don't use units with line-height to allow for easy resizing? 1.5 -htmldogs*/
 /*baseline grid per Miner, line height %150 of font-size*/
 
