@@ -60,7 +60,9 @@ div#content {
         width: 60%;
 }
 
-
+ul {
+    margin-top: 18px;
+}
 
 ul.address li{
 		list-style-type: none;
@@ -74,34 +76,38 @@ li {
 	padding-left: 4em;
 }
 
-li.locdate {
-		list-style-type: none;
-}
+
 
 /*Don't use units with line-height to allow for easy resizing? 1.5 -htmldogs*/
 /*baseline grid per Miner, line height %150 of font-size*/
 
 h1 { 
-	font-size: 24px;
-	line-height: 36px;
-	margin-bottom: 18px;
-	text-align: center; 
+	     font-size: 24px;
+	     line-height: 36px;
+	     margin-bottom: 18px;
+	     text-align: center; 
 }
 
 h2 { 
       font-size: 20px;
       line-height: 30px;
-	  margin-bottom: 18px;
-	  margin-top: 18px;
+	    margin-bottom: 18px;
+	    margin-top: 18px;
 }
 
 h3 { 
       font-size: 16px;      
       line-height: 24px;
-	  margin-top: 18px;
+	    margin-top: 18px;
 }
 
 h4 { 
       font-size: 14px;  
       line-height:21px;
 }
+
+h4.locdate {
+		  list-style-type: none;
+      float: right;
+}
+
