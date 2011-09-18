@@ -18,24 +18,10 @@ sup{vertical-align:baseline}sub{vertical-align:baseline}legend{color:#000}
 begin Charise CSS
 */
 
-/* 
-
-    Need to make units consistent? 
-    Use px or em
-
-*/
-
-/* 
-
-    padding or margin 
-    put padding in html, background color
-    put padding for ul, background color - creates box on box
-
-*/
 
 html {
-    padding: 50px;		
-    background: #fff;
+		padding: 50px;		
+		background: #FBF5E6;
 		color: black;
 		font-family: Franklin Gothic Book, Arial, sans-serif;
 		font-size: 12px;
@@ -44,24 +30,26 @@ html {
 
 ul#navigation {
         font-size: 16px;      
-        width: 25%;    
-		    position: absolute;
+		width: 25%;    
+		position: absolute;
         float: right;
         right: 50px;
-		    padding: 20px;
-		    line-height: 24px;
+		padding: 20px;
+		line-height: 24px;
 }
 
 ul#navigation a {
-				text-decoration: none;
+		text-decoration: none;
 }
 
 div#content {
-        width: 60%;
+		width: 60%;
+		background: #FDFDF0;
+		padding: 20px;
 }
 
 ul {
-    margin-top: 18px;
+		margin-top: 18px;
 }
 
 ul.address li{
@@ -72,11 +60,9 @@ ul.address li{
 /*make second line same indentation*/
 
 li { 
-	list-style: square inside; 
-	padding-left: 4em;
+		list-style: square inside; 
+		padding-left: 4em;
 }
-
-
 
 /*Don't use units with line-height to allow for easy resizing? 1.5 -htmldogs*/
 /*baseline grid per Miner, line height %150 of font-size*/
@@ -89,28 +75,34 @@ h1 {
 }
 
 h2 { 
-      font-size: 20px;
-      line-height: 30px;
-	    margin-bottom: 18px;
+		font-size: 20px;
+		line-height: 30px;
+		margin-bottom: 18px;
 	    margin-top: 18px;
 }
 
 h3 { 
-      font-size: 16px;      
-      line-height: 24px;
-	  margin-top: 18px;
+		font-size: 16px;      
+		line-height: 24px;
+		margin-top: 18px;
 }
 
 
 h4 { 
-      font-size: 14px;  
-      line-height:21px;
+		font-size: 14px;  
+		line-height:21px;
 }
 
 h4.locdate {
-      float: right;
+		float: right;
 }
 
 h4.title {
-      font-weight: bold;
+		font-weight: bold;
+}
+
+#portfolio {
+		width: 60%;
+		background: #FDFDF0;
+		padding: 20px;	
 }
