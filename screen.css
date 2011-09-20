@@ -21,7 +21,7 @@ begin Charise CSS
 
 html {
 		padding: 50px;		
-		background: #FBF5E6;
+		background: #FEF0C9;
 		color: black;
 		font-family: Franklin Gothic Book, Arial, sans-serif;
 		font-size: 12px;
@@ -42,16 +42,16 @@ ul#navigation a {
 		text-decoration: none;
 }
 
-p.caption {
-		float: right;
-		width: 50%;
-		padding: 10px;
+.image {
+		padding: 18px;
+
 }
 
-.item {
-		float: right;
-		right: 50;
-		padding: 10px;
+.caption {
+		width: 50%;
+		padding: 18px;
+
+
 }
 
 div#content {
@@ -83,7 +83,6 @@ h1 {
 	     font-size: 24px;
 	     line-height: 36px;
 	     margin-bottom: 18px;
-	     text-align: center; 
 }
 
 h2 { 
