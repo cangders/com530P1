@@ -9,6 +9,36 @@ Subject:	Project 1 and Course Progress Self-critique Memo
 The purpose of this memo is to provide you with a self-critique of my
 Project 1 and course progress.
 
-Project 1 Critique
+Project 1
 
-Course Progress
+Overall, I believe I did a decent job on the source code of my resume 
+and portfolio. I tried to keep the formatting simple using unordered 
+lists for almost the entire resume page. I added a little complexity 
+to the page by floating the navigation menu to the right and using 
+anchors to allow users to drop to a later part of the page.
+
+Writing the CSS was the hardest part of this assignment. Initially, 
+I wrote the CSS to match the resume page. When I wrote the portfolio 
+page, I found myself adding to the CSS page instead of attempt to 
+reuse the id and class from the resume.
+
+If I could do the project over again, I would first sketch a layout 
+design of my pages using some uniform ids and classes. The first 
+draft of my resume page used a lot of <p> and <br /> when using 
+unordered lists was more appropriate. I ended up drafting my resume 
+page and then almost revising the entire source code to use unordered 
+lists. I wrote the code as I designed the page resulting in a lot of 
+guess-and-check work.
+
+Class Progress
+
+As I have mentioned before in class, I have taken a course on web 
+design at DePaul, so I am familiar with basic XHTML and CSS. I have 
+used git in a previous class as well so the tutorials on git have been 
+a nice review for me. Even though I have had these prior experiences, 
+I have learned a lot class and through the readings to thoughtfully 
+organize information and source code writing. The challenge for me will 
+be to move away from my previous experiences of blindly copying-and-pasting 
+source codes and scripts to consciously constructing source code from  
+memory or reference materials. I am starting to see why certain layouts 
+occur when writing CSS.

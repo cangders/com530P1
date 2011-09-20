@@ -31,12 +31,11 @@ begin Charise CSS
 }
 
 html {
-		padding: 50px;		
+		margin: 0;		
 		background: #fff;
-		color: black;
-		font-family: Franklin Gothic Book, Arial, sans-serif;
-		font-size: 12px;
-		margin-bottom: 18px;
+		color: #000;
+		font-family: Bell MT, Times New Roman, serif;
+		font-size: 10pt;
 }
 
 ul.address li{
@@ -46,22 +45,25 @@ ul.address li{
 
 /*make second line same indentation*/
 
+
 li { 
 		list-style: square inside; 
 		padding-left: 4em;
 }
 
 h2 { 
-		font-size: 14pt;
+		font-size: 11pt;
+		text-decoration: underline;
+		
 }
 
 h3 { 
-		font-size: 12pt;      
+		font-size: 11pt;      
 }
 
 
 h4 { 
-		font-size: 12pt;  
+		font-size: 11pt;  
 }
 
 h4.locdate {
